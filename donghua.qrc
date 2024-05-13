@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>readygo.mp4</file>
+        <file>start.jpg</file>
+        <file>loose.jpg</file>
+        <file>start2.jpg</file>
+        <file>win.jpg</file>
+    </qresource>
+</RCC>
