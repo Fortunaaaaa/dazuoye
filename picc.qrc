@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tutupianpian/background.png</file>
+        <file>tutupianpian/background111.png</file>
+        <file>tutupianpian/teacher-face to left.png</file>
+        <file>tutupianpian/teacher-face to right.png</file>
+        <file>tupian2/loose.jpg</file>
+        <file>tupian2/start.jpg</file>
+        <file>tupian2/readygo.mp4</file>
+        <file>tupian2/start2.jpg</file>
+        <file>tupian2/win.jpg</file>
+        <file>tupian2/background2.jpg</file>
+        <file>tupian2/background3.jpg</file>
+        <file>tupian2/back.jpg</file>
+        <file>tupian2/boy1-study.png</file>
+        <file>tupian2/boy2-study.png</file>
+        <file>tupian2/boy3-cheating.png</file>
+        <file>tupian2/boy4-cheating.png</file>
+        <file>tupian2/girl1-cheating-better.png</file>
+        <file>tupian2/girl1-study.png</file>
+        <file>tupian2/girl2-cheating.png</file>
+        <file>tupian2/girl2-study.png</file>
+        <file>tupian2/yes.jpg</file>
+        <file>tupian2/mtjj222.jpg</file>
+        <file>tupian2/shanxin.jpg</file>
+        <file>tupian2/xiaobai.jpg</file>
+        <file>tupian2/zcc222.jpg</file>
+        <file>tupian2/blueyes.jpg</file>
+        <file>tupian2/readygo.gif</file>
+        <file>tupian2/mtjjanniu.png</file>
+        <file>tupian2/shanxinanniu.png</file>
+        <file>tupian2/xiaobaianniu.png</file>
+        <file>tupian2/yesssanniu.png</file>
+        <file>tupian2/zccanniu.png</file>
+        <file>tupian2/youxishuom.jpg</file>
+        <file>tupian2/shuoming.jpg</file>
+        <file>tupian2/lose222.jpg</file>
+        <file>tupian2/chooserenwu2.jpg</file>
+    </qresource>
+</RCC>
